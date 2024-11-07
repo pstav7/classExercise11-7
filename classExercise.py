@@ -1,0 +1,2 @@
+
+print("Class exercise")
